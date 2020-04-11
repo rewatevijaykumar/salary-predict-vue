@@ -10,4 +10,4 @@ Implementing linear regression machine learning model to predict salary
 
 4. Export app in Docker container
 
-Live demo: https://salary-predict-vue.heroku-app.com
+Live demo: https://salary-predict-vue.herokuapp.com
